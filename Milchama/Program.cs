@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main()
+    public static void Main(String[] args)
     {
         Console.WriteLine("Welcome to the game מלחמה!");
         Console.WriteLine("Press Enter to play a round, or type 'q' to quit.\n");
@@ -14,7 +14,7 @@ class Program
         // who won
     }
     
-        public static int CardValue(char card)
+    public static int CardValue(char card)
     {
         if (card >= '2' && card <= '9')
             return card - '2' + 2; // 2-9
