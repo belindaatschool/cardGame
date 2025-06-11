@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\bin\Debug\net6.0\Milchama.exe
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\bin\Debug\net6.0\Milchama.deps.json
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\bin\Debug\net6.0\Milchama.runtimeconfig.json
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\bin\Debug\net6.0\Milchama.dll
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\bin\Debug\net6.0\Milchama.pdb
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.dll
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\refint\Milchama.dll
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.pdb
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\Milchama.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Shoham Schools\Teaching\מדמח\יסודות\עצמים - מתחילים\cardGame\Milchama\obj\Debug\net6.0\ref\Milchama.dll
