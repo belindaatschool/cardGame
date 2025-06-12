@@ -6,12 +6,21 @@ class Program
     {
         Console.WriteLine("Welcome to the game מלחמה!");
         Console.WriteLine("Press Enter to play a round, or type 'q' to quit.\n");
+        // Create 2 players
 
         // game loop
 
+        ////if q then end game
+
+        //// each player takes a card
+
+        //// who wins turn? wins points
+
+        // end game loop
+
         Console.WriteLine("\nGame over!");
 
-        // who won
+        // who won the game?
     }
     
     public static int CardValue(char card)
